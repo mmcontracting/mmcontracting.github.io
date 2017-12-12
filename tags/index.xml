@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Universal</title>
-    <link>https://mmcontracting.github.io/tags/</link>
+    <link>http://mmcontracting.com/tags/</link>
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, mmcontracting; all rights reserved.</copyright>
     
-	<atom:link href="https://mmcontracting.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mmcontracting.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

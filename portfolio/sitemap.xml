@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/portfolio/album-twelve/</loc>
+    <lastmod>2016-10-21T19:17:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-eleven/</loc>
+    <lastmod>2016-10-21T19:17:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-ten/</loc>
+    <lastmod>2016-10-21T19:16:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-nine_index/</loc>
+    <lastmod>2016-10-21T19:16:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-eight/</loc>
+    <lastmod>2016-10-21T19:16:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-seven/</loc>
+    <lastmod>2016-10-21T19:15:46+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-six/</loc>
+    <lastmod>2016-10-21T19:15:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-five/</loc>
+    <lastmod>2016-10-21T19:14:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-four/</loc>
+    <lastmod>2016-10-21T19:08:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-three/</loc>
+    <lastmod>2016-10-21T19:08:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-two/</loc>
+    <lastmod>2016-10-21T19:07:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/album-one/</loc>
+    <lastmod>2016-10-21T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2016-10-21T19:16:34+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

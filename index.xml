@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MMContracting</title>
-    <link>http://mmcontracting.com/</link>
+    <link>./</link>
     <description>Recent content on MMContracting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, mmcontracting; all rights reserved.</copyright>
     
-	<atom:link href="http://mmcontracting.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://mmcontracting.com/contact/</link>
+      <link>./contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mmcontracting.com/contact/</guid>
+      <guid>./contact/</guid>
       <description>Free estimates As an independent contractor, I will provide you with a free estimate. No job is too big or too small
 Call 1-631-987-5241 Leave your name and number and I will call you as soon as I can.</description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>http://mmcontracting.com/faq/</link>
+      <link>./faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mmcontracting.com/faq/</guid>
+      <guid>./faq/</guid>
       <description>1. WHAT GEOGRAPHICAL AREAS DO I SERVE? I primarily serve Long Island
  Nassau County. Suffolk County.  2. WHAT ARE MY RATES? I will give you an estimate for your project.
 3. CAN I CHOOSE MY OWN MATERIALS? If you want, you can pick your own materials, tiles, etc. I&amp;rsquo;m flexible to ensure you are confortable.
 4. CAN YOU PROVIDE REFERRALS? If you like referrals, I&amp;rsquo;m more than happy to provide them.</description>
+    </item>
+    
+    <item>
+      <title>dummy</title>
+      <link>./dummy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./dummy/</guid>
+      <description>1. Some dummy content. dummy holder for site.</description>
     </item>
     
   </channel>
